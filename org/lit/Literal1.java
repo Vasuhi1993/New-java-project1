@@ -6,8 +6,8 @@ public class Literal1 {
 		String S2="Thoraipakkam";
 		String S3="OMR Thoraipakkam";
 		System.out.println("Literal String");
-		System.out.println(S1);
 		System.out.println(S2);
+		System.out.println(S1);
 		System.out.println(S3);
 		System.out.println(System.identityHashCode(S1));
 		System.out.println(System.identityHashCode(S2));
